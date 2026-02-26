@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/awesome-tongji-cs/',
   title: "AWESOME-TongJi-CS",
   description: "A VitePress Site",
   themeConfig: {
